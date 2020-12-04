@@ -1,3 +1,8 @@
+Name: Andrew Dillon
+ID: 2382400
+Class: CPSC 298
+Instructor: Fahy
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
